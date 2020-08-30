@@ -4,9 +4,9 @@ Simple Notes App with Authentication. Made using MERN Stack, Used Redux for mana
 
 ###IMAGES
 
-![alt text](https://github.com/notrealanurag/notes/master/images/notePage.png?raw=true)
+![alt text](https://raw.githubusercontent.com/notrealanurag/notes/master/images/notePage.png)
 
-![alt text](https://github.com/notrealanurag/notes/master/images/registerPage.png?raw=true)
+![alt text](https://raw.githubusercontent.com/notrealanurag/notes/master/images/registerPage.png)
 
 # Main Features
 
