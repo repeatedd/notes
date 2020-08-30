@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://rootUser:testPassword@cluster0.9yx40.mongodb.net/notes?retryWrites=true&w=majority",
+    "jwtSecret": "1pBnin^9ging454!@"
+}
