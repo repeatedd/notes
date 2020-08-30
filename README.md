@@ -2,7 +2,7 @@
 
 Simple Notes App with Authentication. Made using MERN Stack, Used Redux for managing state
 
-###IMAGES
+# PREVIEW
 
 ![alt text](https://raw.githubusercontent.com/notrealanurag/notes/master/images/notePage.png)
 
